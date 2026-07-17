@@ -18,7 +18,7 @@ touches disk. Future sessions retrieve context instead of rebuilding it.
 ## Install
 
 ```
-hermes skills install github.com/SkillForgeLabs/obsidian-auto-context
+hermes skills install github.com/SkillForge-Labs/obsidian-auto-context
 ```
 
 Set `OBSIDIAN_VAULT_PATH`, then run `obsidian-save` (or wire it to a
