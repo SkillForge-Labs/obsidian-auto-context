@@ -109,7 +109,7 @@ validation. Filed a decision to use both in sequence.
 ## Install
 
 ```
-hermes skills install github.com/SkillForgeLabs/obsidian-auto-context
+hermes skills install github.com/SkillForge-Labs/obsidian-auto-context
 ```
 
 Then set `OBSIDIAN_VAULT_PATH` and run `obsidian-save` at the end of any session.
